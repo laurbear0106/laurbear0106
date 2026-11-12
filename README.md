@@ -13,7 +13,7 @@
 ⣿⣿⣿⣷⣶⣶⣤⣤⣭⡈⣿⣿⣿⣿⣿⣿⡈⣿⣿⣿⣿⣿⣿<br />
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡧⢼⣿⣿⣿⣿⣿⣧⢼⣿⣿⣿⣿⣿<br />
 
-My name is Lauren!
+My name is Lauren. Welcome to my GitHub! Here, I'll be keeping both professional and personal projects.
 
 ## About Me!
 — ᨳଓ .  I was born in South Florida, but grew up and attended school from K-12 in the greater Houston area.<br />

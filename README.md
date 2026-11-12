@@ -16,9 +16,9 @@
 My name is Lauren. Welcome to my GitHub! Here, I'll be keeping both professional and personal projects.
 
 ## About Me!
-In May, I graduated from Texas A&M University (2023-2026) with a B.A. in Economics. I am currently working in the HVAC industry.<br />
+In May, I graduated from Texas A&M University (2023-2026) with a B.A. in Economics. I am currently working in the HVAC industry.
 
-Some of my interests include gaming, makeup, politics, cars, anime, and marketing! I recently finished the second season of Mob Psycho 100 and the second season of Vinland Saga. I'm currently halfway through Fullmetal Alchemist, and I just started One Piece, too!<br />
+Some of my interests include gaming, makeup, politics, cars, anime, and marketing! I recently finished the second season of Mob Psycho 100 and the second season of Vinland Saga. I'm currently halfway through Fullmetal Alchemist, and I just started One Piece, too!
 
 Regarding code, I'm currently working on a project with the goal making a part of my daily work more efficient. For my next project, I'd like to learn how to Vibe Code. 
 <!--
